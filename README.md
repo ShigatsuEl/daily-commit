@@ -34,4 +34,12 @@
 
 - 드림코딩 by 엘리
 
-  - JavaScript Foundation Lecture(진행 중)
+  - JavaScript Foundation Lecture(완료)
+
+- 깃허브 오픈소스 프로젝트
+
+  - 모든 자바스크립트 개발자가 알아야 하는 33가지 개념(완료)
+
+- WesBos
+
+  - JavaScript30 Challenge(진행 중)
