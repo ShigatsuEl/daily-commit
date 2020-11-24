@@ -26,6 +26,10 @@
 
   - 유튜브 클론 코딩 & 챌린지(완료)
 
+  - ReactJS로 영화 웹 서비스 만들기(완료)
+
+  - 실전형 리액트 Hooks 10개(완료)
+
 - 인프런
 
   - 1분 코딩
@@ -42,4 +46,4 @@
 
 - WesBos
 
-  - JavaScript30 Challenge(진행 중)
+  - JavaScript30 Challenge(완료)
