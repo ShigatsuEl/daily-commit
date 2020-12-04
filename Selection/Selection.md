@@ -17,11 +17,13 @@
 
 - [2018 개발자 추천 블로그 10선](https://www.huskyhoochu.com/suggested-blogs/)
 
-- [개발자 검색하는 법](https://m.blog.naver.com/PostView.nhn?blogId=potter777777&logNo=220599426210&proxyReferer=https:%2F%2Fwww.google.com%2F)
-
 - [생활코딩](https://opentutorials.org/course/1)<br>
   무료로 여러가지를 배울 수 있는 아주 큰 대형 웹사이트이다.<br>
   특히, 백엔드가 궁금하다면 유용하게 사용할 수 있을 것이다.<br>
+
+- [Coding Convention](https://velog.io/@gwak2837/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-React-%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99)하는 법을 잘 정리해둠<br>
+
+- [개발자 검색하는 법](https://m.blog.naver.com/PostView.nhn?blogId=potter777777&logNo=220599426210&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 - [vsc로 작업 후 코드샌드박스로 옮기기](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli)<br>
   과제할 때 상당히 편리함<br>
