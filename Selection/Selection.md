@@ -43,3 +43,8 @@
 
 - [Node JS / Express에 관한 정리](https://psyhm.tistory.com/2?category=654716)<br>
   NodeJS와 Express에 관해 정리한 포스팅이다.<br>
+
+### Mongoose
+
+- [몽구스 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)<br>
+  평소에 MongoDB쿼리하는 법에 대해 찾아도 영어문서가 많아 이해하기 어려웠는데 제로초님이 간편하게 정리한 것이다.<br>
