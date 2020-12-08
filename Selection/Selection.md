@@ -4,11 +4,15 @@
 
 - [Development-Documentation](#Development-Documentation)
 
+- [API](#API)
+
 - [CSS](#CSS)
 
 - [JavaScript](#JavaScript)
 
 - [NodeJS](#NodeJS)
+
+- [Mongoose](#Mongoose)
 
 ### Development-Documentation
 
@@ -23,10 +27,18 @@
 
 - [Coding Convention](https://velog.io/@gwak2837/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-React-%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99)하는 법을 잘 정리해둠<br>
 
+- [프리코드캠프](https://www.freecodecamp.org/learn/)<br>
+  영어로 되어있긴 하지만 여러가지들을 점검해볼 수 있는 사이트이다.
+
 - [개발자 검색하는 법](https://m.blog.naver.com/PostView.nhn?blogId=potter777777&logNo=220599426210&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 - [vsc로 작업 후 코드샌드박스로 옮기기](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli)<br>
   과제할 때 상당히 편리함<br>
+
+### API
+
+- [Youtube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko#Events)<br>
+  유튜브 동영상의 재생 및 정지를 쉽게 도와주는 api이다.
 
 ### CSS
 
