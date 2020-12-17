@@ -10,6 +10,10 @@
 
 - [JavaScript](#JavaScript)
 
+- [React](#React)
+
+- [React Hook](#React-Hook)
+
 - [NodeJS](#NodeJS)
 
 - [Mongoose](#Mongoose)
@@ -50,6 +54,18 @@
 
 - [모던 자바스크립트](https://javascript.info/)<br>
   JavaScript 공식 사이트인 MDN 다음으로 애용하는 레퍼런스이다.<br>
+
+### React
+
+### React Hook
+
+- [Hook(Velopert)](https://velog.io/@velopert/react-hooks)<br>
+  벨로퍼트님이 정리한 훅의 기초개념이다.
+
+- [Hooks Guide](https://hooks-guide.netlify.app/)
+
+- [useEffect Hook](https://overreacted.io/ko/a-complete-guide-to-useeffect/)<br>
+  useEffect에 관한 고찰에 대한 글이다.
 
 ### NodeJS
 
