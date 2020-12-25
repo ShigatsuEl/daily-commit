@@ -57,6 +57,8 @@
 
 ### React
 
+- [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
+
 ### React Hook
 
 - [Hook(Velopert)](https://velog.io/@velopert/react-hooks)<br>
