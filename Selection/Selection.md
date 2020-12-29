@@ -57,12 +57,17 @@
 
 ### React
 
+- [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
+  디렉토리 구조를 어떻게 할지 찾아본 글 중 가장 잘 정리가 되어있는 것 같다.
+
 - [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
 
 ### React Hook
 
 - [Hook(Velopert)](https://velog.io/@velopert/react-hooks)<br>
   벨로퍼트님이 정리한 훅의 기초개념이다.
+
+- [React Hooks의 이해](https://velog.io/@gwak2837/React-Hooks%EC%9D%98-%EC%9D%B4%ED%95%B4)<br>
 
 - [Hooks Guide](https://hooks-guide.netlify.app/)
 
