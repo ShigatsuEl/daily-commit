@@ -29,8 +29,6 @@
   무료로 여러가지를 배울 수 있는 아주 큰 대형 웹사이트이다.<br>
   특히, 백엔드가 궁금하다면 유용하게 사용할 수 있을 것이다.<br>
 
-- [Coding Convention](https://velog.io/@gwak2837/%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-React-%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99)하는 법을 잘 정리해둠<br>
-
 - [프리코드캠프](https://www.freecodecamp.org/learn/)<br>
   영어로 되어있긴 하지만 여러가지들을 점검해볼 수 있는 사이트이다.
 
@@ -82,6 +80,8 @@
 
 - [Node JS / Express에 관한 정리](https://psyhm.tistory.com/2?category=654716)<br>
   NodeJS와 Express에 관해 정리한 포스팅이다.<br>
+
+- [@babel/preset-env가 무엇이고 왜 필요한가?](https://velog.io/@pop8682/%EB%B2%88%EC%97%AD-%EC%99%9C-babel-preset%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EA%B3%A0-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-yhk03drm7q)
 
 ### Mongoose
 
