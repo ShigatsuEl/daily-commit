@@ -52,6 +52,9 @@
 - [Youtube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko#Events)<br>
   유튜브 동영상의 재생 및 정지를 쉽게 도와주는 api이다.
 
+- [public API](https://open-apis.dev/)<br>
+  API를 공개하는 주소들을 모아두었다. 필요할 때 api를 사용할 수 있을 듯 하다.<br>
+
 ### CSS
 
 - [CSS Position](https://developer.mozilla.org/ko/docs/Web/CSS/position)
