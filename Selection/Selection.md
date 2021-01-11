@@ -12,6 +12,8 @@
 
 - [JavaScript](#JavaScript)
 
+- [TypeScript](#TypeScript)
+
 - [React](#React)
 
 - [React Hook](#React-Hook)
@@ -67,6 +69,14 @@
 
 - [모던 자바스크립트](https://javascript.info/)<br>
   JavaScript 공식 사이트인 MDN 다음으로 애용하는 레퍼런스이다.<br>
+
+### TypeScript
+
+- [타입스크립트 공식 사이트](https://typescript-kr.github.io/)<br>
+  자바스크립트엔 MDN이 있다면 타입스크립트 공식 사이트는 이곳이다.
+
+- [TS Configuration](https://typescript-kr.github.io/pages/tsconfig.json.html)<br>
+  tsconfig.js에 관해 다루고 있다.
 
 ### React
 
