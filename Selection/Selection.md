@@ -78,6 +78,9 @@
 - [TS Configuration](https://typescript-kr.github.io/pages/tsconfig.json.html)<br>
   tsconfig.js에 관해 다루고 있다.
 
+- [CRA TypeScript](https://eomtttttt-develop.tistory.com/224)<br>
+  이미 만들어진 React앱에 TypeScript 적용하기
+
 ### React
 
 - [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
@@ -99,7 +102,9 @@
 - [useEffect Hook](https://overreacted.io/ko/a-complete-guide-to-useeffect/)<br>
   useEffect에 관한 고찰에 대한 글이다.
 
-- [useRef & useImperativehandle](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-07-createref%EC%99%80-useref-%EA%B7%B8%EB%A6%AC%EA%B3%A0-useimperativehandle-2fb5445d168b)
+- [useRef & useImperativehandle](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-07-createref%EC%99%80-useref-%EA%B7%B8%EB%A6%AC%EA%B3%A0-useimperativehandle-2fb5445d168b)<br>
+  [useRef를 사용하여 상위 컴포넌트에서 호출하기](https://www.python2.net/questions-843995.htm)<br>
+  Ref를 어떻게 다른 컴포넌트에서 사용할 수 있게 만들 것인지를 다룬다.
 
 ### Gulp
 
