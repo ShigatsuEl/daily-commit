@@ -70,6 +70,9 @@
 - [모던 자바스크립트](https://javascript.info/)<br>
   JavaScript 공식 사이트인 MDN 다음으로 애용하는 레퍼런스이다.<br>
 
+- [apply call bind](https://velog.io/@devmin/TIL-%ED%95%A8%EC%88%98-%EB%A9%94%EC%86%8C%EB%93%9C-5ok29tthyz)<br>
+  바인드 메서드 3가지가 자주 헷갈려서 추가한 자료이다.
+
 ### TypeScript
 
 - [타입스크립트 공식 사이트](https://typescript-kr.github.io/)<br>
