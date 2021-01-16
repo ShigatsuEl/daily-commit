@@ -14,6 +14,8 @@
 
 - [TypeScript](#TypeScript)
 
+- [Python](#Python)
+
 - [React](#React)
 
 - [React Hook](#React-Hook)
@@ -59,6 +61,8 @@
 
 ### CSS
 
+- [Material Icon](https://material.io/resources/icons/?icon=accessibility_new&style=baseline)
+
 - [CSS Position](https://developer.mozilla.org/ko/docs/Web/CSS/position)
 
 - [반응형 웹 만들기](https://nykim.work/84)
@@ -83,6 +87,11 @@
 
 - [CRA TypeScript](https://eomtttttt-develop.tistory.com/224)<br>
   이미 만들어진 React앱에 TypeScript 적용하기
+
+### Python
+
+- [파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/)<br>
+  자바스크립트엔 MDN이 있다면 파이썬엔 파이썬 표준 라이브러리가 지원을 한다.
 
 ### React
 
