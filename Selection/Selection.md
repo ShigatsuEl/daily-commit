@@ -20,6 +20,8 @@
 
 - [React Hook](#React-Hook)
 
+- [Redux](#Redux)
+
 - [Gulp](#Gulp)
 
 - [NodeJS](#NodeJS)
@@ -74,6 +76,8 @@
 - [모던 자바스크립트](https://javascript.info/)<br>
   JavaScript 공식 사이트인 MDN 다음으로 애용하는 레퍼런스이다.<br>
 
+- [한줄짜리 자바스크립트 코드](https://1loc.dev/)<br>
+
 - [apply call bind](https://velog.io/@devmin/TIL-%ED%95%A8%EC%88%98-%EB%A9%94%EC%86%8C%EB%93%9C-5ok29tthyz)<br>
   바인드 메서드 3가지가 자주 헷갈려서 추가한 자료이다.
 
@@ -117,6 +121,12 @@
 - [useRef & useImperativehandle](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-07-createref%EC%99%80-useref-%EA%B7%B8%EB%A6%AC%EA%B3%A0-useimperativehandle-2fb5445d168b)<br>
   [useRef를 사용하여 상위 컴포넌트에서 호출하기](https://www.python2.net/questions-843995.htm)<br>
   Ref를 어떻게 다른 컴포넌트에서 사용할 수 있게 만들 것인지를 다룬다.
+
+### Redux
+
+- [Rdeux Documentation](https://redux.js.org/)
+
+- [Redux Toolkit Documentaion](https://redux-toolkit.js.org/)
 
 ### Gulp
 
