@@ -122,6 +122,8 @@
   [useRef를 사용하여 상위 컴포넌트에서 호출하기](https://www.python2.net/questions-843995.htm)<br>
   Ref를 어떻게 다른 컴포넌트에서 사용할 수 있게 만들 것인지를 다룬다.
 
+- [React 부모 컴포넌트에 DOM Refs 노출하기](https://reactjs-kr.firebaseapp.com/docs/refs-and-the-dom.html#%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD)
+
 ### Redux
 
 - [Rdeux Documentation](https://redux.js.org/)
