@@ -8,6 +8,8 @@
 
 - [API](#API)
 
+- [Configuration](#Configuration)
+
 - [CSS](#CSS)
 
 - [JavaScript](#JavaScript)
@@ -60,6 +62,10 @@
 
 - [public API](https://open-apis.dev/)<br>
   API를 공개하는 주소들을 모아두었다. 필요할 때 api를 사용할 수 있을 듯 하다.<br>
+
+### Configuration
+
+- [Eslint Prettier 설정](https://velog.io/@josworks27/ESLint-Prettier-%EC%84%A4%EC%A0%95-%EB%B0%B1%EC%97%94%EB%93%9C)
 
 ### CSS
 
@@ -122,7 +128,9 @@
   [useRef를 사용하여 상위 컴포넌트에서 호출하기](https://www.python2.net/questions-843995.htm)<br>
   Ref를 어떻게 다른 컴포넌트에서 사용할 수 있게 만들 것인지를 다룬다.
 
-- [React 부모 컴포넌트에 DOM Refs 노출하기](https://reactjs-kr.firebaseapp.com/docs/refs-and-the-dom.html#%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD)
+- [React forwardref](https://flamingotiger.github.io/frontend/react/react-ref/)<br>
+  [React 부모 컴포넌트에 DOM Refs 노출하기](https://reactjs-kr.firebaseapp.com/docs/refs-and-the-dom.html#%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD)<br>
+  Ref를 전달할 수 있는 방법이다. 위의 방법이 최신 React에서 권장하는 방법이며 그 전에는 아래의 방법으로 할 수 있었다. 둘 다 해봤는데 최신 방식이 더 멋진 것 같다.
 
 ### Redux
 
