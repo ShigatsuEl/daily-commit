@@ -147,6 +147,9 @@
 
 - [Webpack Handbook](https://joshua1988.github.io/webpack-guide/guide.html)
 
+- [프론트엔드 개발환경의 이해: Webpack / Babel / ESLint](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)<br>
+  인프런 김정환님 웹팩 강의에서 참고하는 자료이다.
+
 ### Gulp
 
 - [Gulp 기초](https://valuefactory.tistory.com/314)
