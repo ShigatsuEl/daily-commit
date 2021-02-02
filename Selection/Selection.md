@@ -111,6 +111,9 @@
 - [파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/)<br>
   자바스크립트엔 MDN이 있다면 파이썬엔 파이썬 표준 라이브러리가 지원을 한다.
 
+- [파이썬 유효범위](https://m.blog.naver.com/PostView.nhn?blogId=msyang59&logNo=220773717531&proxyReferer=https:%2F%2Fwww.google.com%2F)<br>
+  전역범위 지역범위 등에 대해 가장 잘 쓰여진 글 같다.
+
 ### React
 
 - [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
