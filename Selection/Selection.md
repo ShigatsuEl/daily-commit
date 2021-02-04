@@ -75,6 +75,9 @@
 
 - [Eslint Prettier 설정](https://velog.io/@josworks27/ESLint-Prettier-%EC%84%A4%EC%A0%95-%EB%B0%B1%EC%97%94%EB%93%9C)
 
+- [윈도우10을 위한 NODE_ENV-1](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)<br>
+  [윈도우10을 위한 NODE_ENV-2](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)
+
 ### CSS
 
 - [Material Icon](https://material.io/resources/icons/?icon=accessibility_new&style=baseline)
