@@ -41,16 +41,9 @@
 
 - [프론트엔드 기술면접](https://realmojo.tistory.com/300)
 
-- [2018 개발자 추천 블로그 10선](https://www.huskyhoochu.com/suggested-blogs/)
-
 - [생활코딩](https://opentutorials.org/course/1)<br>
   무료로 여러가지를 배울 수 있는 아주 큰 대형 웹사이트이다.<br>
   특히, 백엔드가 궁금하다면 유용하게 사용할 수 있을 것이다.<br>
-
-- [프리코드캠프](https://www.freecodecamp.org/learn/)<br>
-  영어로 되어있긴 하지만 여러가지들을 점검해볼 수 있는 사이트이다.
-
-- [개발자 검색하는 법](https://m.blog.naver.com/PostView.nhn?blogId=potter777777&logNo=220599426210&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 - [vsc로 작업 후 코드샌드박스로 옮기기](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli)<br>
   과제할 때 상당히 편리함<br>
@@ -58,6 +51,8 @@
 - [브라우저 호환성 검사기](https://caniuse.com/)
 
 ### Employment
+
+- [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 - [Junior Recruit Scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
 
