@@ -79,6 +79,12 @@
 
 - [Material Icon](https://material.io/resources/icons/?icon=accessibility_new&style=baseline)
 
+- [디자인 영감 사이트(Dribble)](https://dribbble.com/shots/14931899-TIGERS)
+
+- [백그라운드 이미지 추출](https://coolbackgrounds.io/)
+
+- [랜덤 이미지 생성 사이트](https://picsum.photos/)
+
 - [CSS Position](https://developer.mozilla.org/ko/docs/Web/CSS/position)
 
 - [반응형 웹 만들기](https://nykim.work/84)
@@ -118,6 +124,8 @@
 
 - [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
   디렉토리 구조를 어떻게 할지 찾아본 글 중 가장 잘 정리가 되어있는 것 같다.
+
+- [React 생명주기 도표](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 - [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
 
