@@ -50,6 +50,8 @@
 
 - [브라우저 호환성 검사기](https://caniuse.com/)
 
+- [VSC 폴더 구조 View 바꾸는 법](https://jogakjungbo.tistory.com/m/27?category=854924)
+
 ### Employment
 
 - [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
