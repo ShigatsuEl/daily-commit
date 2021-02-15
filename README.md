@@ -40,7 +40,7 @@
 
   - 언어(자바스크립트) -> 완료
 
-  - JavaScript(NodeJS) - 폐지예정(진행중)
+  - JavaScript(NodeJS) - 폐지예정(완료)
 
 - 인프런
 
