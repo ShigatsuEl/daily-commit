@@ -6,6 +6,8 @@
 
 - [Employment](#Employment)
 
+- [Design](#Design)
+
 - [API](#API)
 
 - [Git & Github](#Git-&-Github)
@@ -45,6 +47,9 @@
   무료로 여러가지를 배울 수 있는 아주 큰 대형 웹사이트이다.<br>
   특히, 백엔드가 궁금하다면 유용하게 사용할 수 있을 것이다.<br>
 
+- [웹프로그래밍 튜토리얼](https://poiemaweb.com/)<br>
+  웹프로그래밍에 대한 모든 기초 과정들이 들어있다. 꼭 완독할 예정이다.
+
 - [vsc로 작업 후 코드샌드박스로 옮기기](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli)<br>
   과제할 때 상당히 편리함<br>
 
@@ -52,11 +57,22 @@
 
 - [VSC 폴더 구조 View 바꾸는 법](https://jogakjungbo.tistory.com/m/27?category=854924)
 
+- [레와하우스 디자인](https://lewahouse.com/)<br>
+  React와 TS로 클론코딩 할 사이트이다.
+
 ### Employment
 
 - [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 - [Junior Recruit Scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+
+### Design
+
+- [The Fwa](https://thefwa.com/)
+
+- [Awwwards](https://www.awwwards.com/)
+
+- [Benhance](https://www.behance.net/)
 
 ### API
 
@@ -133,6 +149,10 @@
 
 - [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
 
+- [React Background Video Fade In](https://dev.to/ma5ly/fading-in-a-video-background-in-react-is-fun-gkl)
+
+- [CRA 웹팩 설정 오버라이드하기](https://chanyeong.com/blog/post/42)
+
 ### React Hook
 
 - [Velopert Hook(All)](https://react.vlpt.us/)
@@ -157,6 +177,9 @@
 
 - [Loading을 Reducer와 Dispatch로 관리](https://jbee.io/react/react-2-redux-architecture/)<br>
   상태 관리에 관한 글인데 예전에 구현하지 못한 Loading state를 전역으로 관리하는 법에 대해 설명하고 있다. 무엇을 놓쳤는지 확인할 수 있지 않을까?
+
+- [React Hook 라이브러리 모음](https://nikgraf.github.io/react-hooks/)<br>
+  [React Hook 핫한 라이브러리 모음](https://github.com/rehooks/awesome-react-hooks)<br>
 
 ### Redux
 
