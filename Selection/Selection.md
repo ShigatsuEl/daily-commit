@@ -22,6 +22,8 @@
 
 - [Python](#Python)
 
+- [Django](#Django)
+
 - [React](#React)
 
 - [React Hook](#React-Hook)
@@ -140,6 +142,11 @@
 - [파이썬 유효범위](https://m.blog.naver.com/PostView.nhn?blogId=msyang59&logNo=220773717531&proxyReferer=https:%2F%2Fwww.google.com%2F)<br>
   전역범위 지역범위 등에 대해 가장 잘 쓰여진 글 같다.
 
+### Django
+
+- [Django 공식 문서](https://www.djangoproject.com/)<br>
+  내가 본 공식사이트 중 제일 거대한 듯함. Django에 대해 없는 것이 없다. 여기서 다 찾아보자.
+
 ### React
 
 - [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
@@ -152,6 +159,14 @@
 - [React Background Video Fade In](https://dev.to/ma5ly/fading-in-a-video-background-in-react-is-fun-gkl)
 
 - [CRA 웹팩 설정 오버라이드하기](https://chanyeong.com/blog/post/42)
+
+- [React+Node 연동1](https://hello-bryan.tistory.com/121)<br>
+  [React+Node 연동2](https://singa-korean.tistory.com/46)
+
+- [React+Node 배포1](https://krpeppermint100.medium.com/devops-react-express-%EC%95%B1-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-netlify-heroku-b238e057d920)
+  [React+Node 배포2](https://velog.io/@recordboy/Express-React-%EC%97%B0%EB%8F%99-%EB%B0%8F-Heroku%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 ### React Hook
 
