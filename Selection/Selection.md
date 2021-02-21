@@ -196,6 +196,21 @@
 - [React Hook 라이브러리 모음](https://nikgraf.github.io/react-hooks/)<br>
   [React Hook 핫한 라이브러리 모음](https://github.com/rehooks/awesome-react-hooks)<br>
 
+- [React element follow mouse](https://agm1984.medium.com/use-react-to-make-a-photo-follow-the-mouse-aka-transform-perspective-or-tilt-7c38f1b3a623')<br>
+  리액트를 활용해 엘리먼트가 마우스 따라다니게 하기 + 3D Perspective 적용
+
+- [React animate scroll left or right](https://greensock.com/forums/topic/24934-react-animating-scrollleft-on-a-div/)<br>
+  리액트 좌우 애니메이션 스크롤 기능
+
+- [How to animate scroll position in React](https://blog.sethcorker.com/scroll-animation-with-framer-motion)<br>
+  포지션을 고려한 리액트 애니메이션 스크롤 기능
+
+- [React Animate On Scroll](https://www.npmjs.com/package/react-animate-on-scroll)
+  [React Animate On Scroll 참고](https://dbramwell.github.io/react-animate-on-scroll/#home)
+
+- [Horizontal scroll animation](https://konstantinlebedev.com/horizontal-scroll-animation/)<br>
+  내가 찾았던 좌우 스크롤 기능
+
 ### Redux
 
 - [Rdeux Documentation](https://redux.js.org/)
