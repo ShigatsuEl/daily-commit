@@ -190,7 +190,8 @@
   [React 부모 컴포넌트에 DOM Refs 노출하기](https://reactjs-kr.firebaseapp.com/docs/refs-and-the-dom.html#%EC%A3%BC%EC%9D%98-%EC%82%AC%ED%95%AD)<br>
   Ref를 전달할 수 있는 방법이다. 위의 방법이 최신 React에서 권장하는 방법이며 그 전에는 아래의 방법으로 할 수 있었다. 둘 다 해봤는데 최신 방식이 더 멋진 것 같다.
 
-- [Loading을 Reducer와 Dispatch로 관리](https://jbee.io/react/react-2-redux-architecture/)<br>
+- [Loading을 Reducer와 Dispatch로 관리1](https://jbee.io/react/react-2-redux-architecture/)<br>
+  [Loading을 Reducer와 Dispatch로 관리2](https://estaid.dev/how-to-manage-asynchronous-state-using-hooks-and-redux/)
   상태 관리에 관한 글인데 예전에 구현하지 못한 Loading state를 전역으로 관리하는 법에 대해 설명하고 있다. 무엇을 놓쳤는지 확인할 수 있지 않을까?
 
 - [React Hook 라이브러리 모음](https://nikgraf.github.io/react-hooks/)<br>
