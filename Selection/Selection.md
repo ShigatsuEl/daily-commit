@@ -212,6 +212,12 @@
 - [Horizontal scroll animation](https://konstantinlebedev.com/horizontal-scroll-animation/)<br>
   내가 찾았던 좌우 스크롤 기능
 
+- [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider)<br>
+  리액트 슬라이드 기능
+
+- [React Auido Continue when move route](https://dev.to/ma5ly/lets-make-a-little-audio-player-in-react-p4p)<br>
+  리액트 오디오 기능 / DOMContentloaded 이벤트를 사용하면 오디오 자동재생 가능할 듯 + TimeUpdate이벤트로 오디오 재생시간과 길이를 구할 수 있다.
+
 ### Redux
 
 - [Rdeux Documentation](https://redux.js.org/)
