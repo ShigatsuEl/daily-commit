@@ -57,6 +57,8 @@
 
 - [브라우저 호환성 검사기](https://caniuse.com/)
 
+- [페이지 성능 검사기](https://developers.google.com/speed/pagespeed/insights/)
+
 - [VSC 폴더 구조 View 바꾸는 법](https://jogakjungbo.tistory.com/m/27?category=854924)
 
 - [레와하우스 디자인](https://lewahouse.com/)<br>
@@ -217,6 +219,10 @@
 
 - [React Auido Continue when move route](https://dev.to/ma5ly/lets-make-a-little-audio-player-in-react-p4p)<br>
   리액트 오디오 기능 / DOMContentloaded 이벤트를 사용하면 오디오 자동재생 가능할 듯 + TimeUpdate이벤트로 오디오 재생시간과 길이를 구할 수 있다.
+
+- [React 앱의 폴더 구조 이해하기](https://ichi.pro/ko/react-aeb-ui-poldeo-gujo-ihaehagi-217751249029174)
+
+- [대규모 React 프로젝트를위한 Redux 설정](https://ichi.pro/ko/daegyumo-react-peulojegteuleul-wihan-redux-seoljeong-nunmul-eobs-i-222487495176561)
 
 ### Redux
 
