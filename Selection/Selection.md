@@ -153,22 +153,51 @@
 
 - [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
   디렉토리 구조를 어떻게 할지 찾아본 글 중 가장 잘 정리가 되어있는 것 같다.
+- [React 앱의 폴더 구조 이해하기](https://ichi.pro/ko/react-aeb-ui-poldeo-gujo-ihaehagi-217751249029174)
 
 - [React 생명주기 도표](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 - [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
 
-- [React Background Video Fade In](https://dev.to/ma5ly/fading-in-a-video-background-in-react-is-fun-gkl)
+- [CRA 웹팩 설정 오버라이드하기](https://chanyeong.com/blog/post/42)<br>
+  [CRA에서 eject 사용 안하기](https://medium.com/@jsh901220/create-react-app%EC%97%90%EC%84%9C-eject%EC%82%AC%EC%9A%A9%EC%95%88%ED%95%98%EA%B8%B0-customize-cra-react-app-rewired-10a83522ace0)<br>
+  [Customize CRA Webpack](https://github.com/arackaf/customize-cra)
 
-- [CRA 웹팩 설정 오버라이드하기](https://chanyeong.com/blog/post/42)
+- [CRA TypeScript ESLint와 Prettier 설정하기1](https://velog.io/@_jouz_ryul/CRA%EB%A1%9C-typescript-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)<br>
+  [CRA TypeScript ESLint와 Prettier 설정하기2](https://howdy-mj.me/typescript/cra-typescript-eslint-prettier/)
+  [CRA TypeScript ESLint와 Prettier 설정하기3](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)
+  [CRA TypeScript ESLint와 Prettier 설정하기4](https://brygrill.medium.com/create-react-app-with-typescript-eslint-prettier-and-github-actions-f3ce6a571c97)
 
 - [React+Node 연동1](https://hello-bryan.tistory.com/121)<br>
   [React+Node 연동2](https://singa-korean.tistory.com/46)
 
-- [React+Node 배포1](https://krpeppermint100.medium.com/devops-react-express-%EC%95%B1-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-netlify-heroku-b238e057d920)
+- [React+Node 배포1](https://krpeppermint100.medium.com/devops-react-express-%EC%95%B1-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-netlify-heroku-b238e057d920)<br>
   [React+Node 배포2](https://velog.io/@recordboy/Express-React-%EC%97%B0%EB%8F%99-%EB%B0%8F-Heroku%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
 - [React Icons](https://react-icons.github.io/react-icons/)
+
+- [React Background Video Fade In](https://dev.to/ma5ly/fading-in-a-video-background-in-react-is-fun-gkl)
+
+- [React element follow mouse](https://agm1984.medium.com/use-react-to-make-a-photo-follow-the-mouse-aka-transform-perspective-or-tilt-7c38f1b3a623')<br>
+  리액트를 활용해 엘리먼트가 마우스 따라다니게 하기 + 3D Perspective 적용
+
+- [React animate scroll left or right](https://greensock.com/forums/topic/24934-react-animating-scrollleft-on-a-div/)<br>
+  리액트 좌우 애니메이션 스크롤 기능
+
+- [How to animate scroll position in React](https://blog.sethcorker.com/scroll-animation-with-framer-motion)<br>
+  포지션을 고려한 리액트 애니메이션 스크롤 기능
+
+- [React Animate On Scroll](https://www.npmjs.com/package/react-animate-on-scroll)<br>
+  [React Animate On Scroll 참고](https://dbramwell.github.io/react-animate-on-scroll/#home)
+
+- [Horizontal scroll animation](https://konstantinlebedev.com/horizontal-scroll-animation/)<br>
+  내가 찾았던 좌우 스크롤 기능
+
+- [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider)<br>
+  리액트 슬라이드 기능
+
+- [React Audio Continue when move route](https://dev.to/ma5ly/lets-make-a-little-audio-player-in-react-p4p)<br>
+  리액트 오디오 기능 / DOMContentloaded 이벤트를 사용하면 오디오 자동재생 가능할 듯 + TimeUpdate이벤트로 오디오 재생시간과 길이를 구할 수 있다.
 
 ### React Hook
 
@@ -199,36 +228,13 @@
 - [React Hook 라이브러리 모음](https://nikgraf.github.io/react-hooks/)<br>
   [React Hook 핫한 라이브러리 모음](https://github.com/rehooks/awesome-react-hooks)<br>
 
-- [React element follow mouse](https://agm1984.medium.com/use-react-to-make-a-photo-follow-the-mouse-aka-transform-perspective-or-tilt-7c38f1b3a623')<br>
-  리액트를 활용해 엘리먼트가 마우스 따라다니게 하기 + 3D Perspective 적용
-
-- [React animate scroll left or right](https://greensock.com/forums/topic/24934-react-animating-scrollleft-on-a-div/)<br>
-  리액트 좌우 애니메이션 스크롤 기능
-
-- [How to animate scroll position in React](https://blog.sethcorker.com/scroll-animation-with-framer-motion)<br>
-  포지션을 고려한 리액트 애니메이션 스크롤 기능
-
-- [React Animate On Scroll](https://www.npmjs.com/package/react-animate-on-scroll)
-  [React Animate On Scroll 참고](https://dbramwell.github.io/react-animate-on-scroll/#home)
-
-- [Horizontal scroll animation](https://konstantinlebedev.com/horizontal-scroll-animation/)<br>
-  내가 찾았던 좌우 스크롤 기능
-
-- [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider)<br>
-  리액트 슬라이드 기능
-
-- [React Auido Continue when move route](https://dev.to/ma5ly/lets-make-a-little-audio-player-in-react-p4p)<br>
-  리액트 오디오 기능 / DOMContentloaded 이벤트를 사용하면 오디오 자동재생 가능할 듯 + TimeUpdate이벤트로 오디오 재생시간과 길이를 구할 수 있다.
-
-- [React 앱의 폴더 구조 이해하기](https://ichi.pro/ko/react-aeb-ui-poldeo-gujo-ihaehagi-217751249029174)
-
-- [대규모 React 프로젝트를위한 Redux 설정](https://ichi.pro/ko/daegyumo-react-peulojegteuleul-wihan-redux-seoljeong-nunmul-eobs-i-222487495176561)
-
 ### Redux
 
 - [Rdeux Documentation](https://redux.js.org/)
 
 - [Redux Toolkit Documentaion](https://redux-toolkit.js.org/)
+
+- [대규모 React 프로젝트를위한 Redux 설정](https://ichi.pro/ko/daegyumo-react-peulojegteuleul-wihan-redux-seoljeong-nunmul-eobs-i-222487495176561)
 
 ### Webpack
 
