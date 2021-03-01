@@ -94,6 +94,8 @@
 
 ### Configuration
 
+- 👍[ESLint 설정 살펴보기](https://velog.io/@kyusung/eslint-config-2)<br>
+
 - [Eslint Prettier 설정](https://velog.io/@josworks27/ESLint-Prettier-%EC%84%A4%EC%A0%95-%EB%B0%B1%EC%97%94%EB%93%9C)
 
 - [윈도우10을 위한 NODE_ENV-1](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)<br>
@@ -164,9 +166,10 @@
   [Customize CRA Webpack](https://github.com/arackaf/customize-cra)
 
 - [CRA TypeScript ESLint와 Prettier 설정하기1](https://velog.io/@_jouz_ryul/CRA%EB%A1%9C-typescript-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)<br>
-  [CRA TypeScript ESLint와 Prettier 설정하기2](https://howdy-mj.me/typescript/cra-typescript-eslint-prettier/)
-  [CRA TypeScript ESLint와 Prettier 설정하기3](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)
-  [CRA TypeScript ESLint와 Prettier 설정하기4](https://brygrill.medium.com/create-react-app-with-typescript-eslint-prettier-and-github-actions-f3ce6a571c97)
+  [CRA TypeScript ESLint와 Prettier 설정하기2](https://howdy-mj.me/typescript/cra-typescript-eslint-prettier/)<br>
+  [CRA TypeScript ESLint와 Prettier 설정하기3](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)<br>
+  [CRA TypeScript ESLint와 Prettier 설정하기4](https://brygrill.medium.com/create-react-app-with-typescript-eslint-prettier-and-github-actions-f3ce6a571c97)<br>
+  [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
 
 - [React+Node 연동1](https://hello-bryan.tistory.com/121)<br>
   [React+Node 연동2](https://singa-korean.tistory.com/46)
