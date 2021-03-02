@@ -138,6 +138,8 @@
 - [CRA TypeScript](https://eomtttttt-develop.tistory.com/224)<br>
   이미 만들어진 React앱에 TypeScript 적용하기
 
+- [바벨과 타입스크립트 활용하기](https://ui.toast.com/weekly-pick/ko_20181220)<br>
+
 ### Python
 
 - [파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/)<br>
@@ -161,6 +163,8 @@
 
 - [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
 
+- [CRA with Typescript로 Webpack 분석하기](https://choong.dev/posts/study-webpack-cra-typescript)<br>
+
 - [CRA 웹팩 설정 오버라이드하기](https://chanyeong.com/blog/post/42)<br>
   [CRA에서 eject 사용 안하기](https://medium.com/@jsh901220/create-react-app%EC%97%90%EC%84%9C-eject%EC%82%AC%EC%9A%A9%EC%95%88%ED%95%98%EA%B8%B0-customize-cra-react-app-rewired-10a83522ace0)<br>
   [Customize CRA Webpack](https://github.com/arackaf/customize-cra)
@@ -170,6 +174,8 @@
   [CRA TypeScript ESLint와 Prettier 설정하기3](https://dev.to/benweiser/how-to-set-up-eslint-typescript-prettier-with-create-react-app-3675)<br>
   [CRA TypeScript ESLint와 Prettier 설정하기4](https://brygrill.medium.com/create-react-app-with-typescript-eslint-prettier-and-github-actions-f3ce6a571c97)<br>
   [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
+
+- [CRA없이 React + TypseScript 셋팅하기](https://chanyeong.com/blog/post/7)<br>
 
 - [React+Node 연동1](https://hello-bryan.tistory.com/121)<br>
   [React+Node 연동2](https://singa-korean.tistory.com/46)
