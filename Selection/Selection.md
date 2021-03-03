@@ -140,6 +140,8 @@
 
 - [바벨과 타입스크립트 활용하기](https://ui.toast.com/weekly-pick/ko_20181220)<br>
 
+- [Styled component with TypeScript](https://velog.io/@hwang-eunji/styled-component-typescript)<br>
+
 ### Python
 
 - [파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/)<br>
