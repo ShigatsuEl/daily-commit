@@ -62,7 +62,10 @@
 - [VSC 폴더 구조 View 바꾸는 법](https://jogakjungbo.tistory.com/m/27?category=854924)
 
 - [레와하우스 디자인](https://lewahouse.com/)<br>
-  React와 TS로 클론코딩 할 사이트이다.
+  React와 TS로 클론코딩 할 사이트이다.<br>
+
+- [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)<br>
+  CSR VS SSR<br>
 
 ### Employment
 
@@ -189,11 +192,8 @@
 
 - [React Background Video Fade In](https://dev.to/ma5ly/fading-in-a-video-background-in-react-is-fun-gkl)
 
-- [React element follow mouse](https://agm1984.medium.com/use-react-to-make-a-photo-follow-the-mouse-aka-transform-perspective-or-tilt-7c38f1b3a623')<br>
+- [React element follow mouse](https://agm1984.medium.com/use-react-to-make-a-photo-follow-the-mouse-aka-transform-perspective-or-tilt-7c38f1b3a623)<br>
   리액트를 활용해 엘리먼트가 마우스 따라다니게 하기 + 3D Perspective 적용
-
-- [React animate scroll left or right](https://greensock.com/forums/topic/24934-react-animating-scrollleft-on-a-div/)<br>
-  리액트 좌우 애니메이션 스크롤 기능
 
 - [How to animate scroll position in React](https://blog.sethcorker.com/scroll-animation-with-framer-motion)<br>
   포지션을 고려한 리액트 애니메이션 스크롤 기능
@@ -207,8 +207,11 @@
 - [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider)<br>
   리액트 슬라이드 기능
 
-- [React Audio Continue when move route](https://dev.to/ma5ly/lets-make-a-little-audio-player-in-react-p4p)<br>
-  리액트 오디오 기능 / DOMContentloaded 이벤트를 사용하면 오디오 자동재생 가능할 듯 + TimeUpdate이벤트로 오디오 재생시간과 길이를 구할 수 있다.
+- [React Audio Lyrics](https://github.com/neroneroffy/react-music-player)<br>
+  Audio속도에 맞춰 Lyrics를 따라가는 라이브러리 -> IU Celebrity 가사 + 시간(LRC라고 하는듯)에 적용해보자
+
+- [React Panorama(panullem-react)](https://github.com/farminf/pannellum-react)<br>
+  파노라마 사진을 드래깅 하게 해주는 라이브러리
 
 ### React Hook
 
