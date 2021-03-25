@@ -213,6 +213,13 @@
 - [React Panorama(panullem-react)](https://github.com/farminf/pannellum-react)<br>
   파노라마 사진을 드래깅 하게 해주는 라이브러리
 
+- [React LRC](https://github.com/mebtte/react-lrc)<br>
+  가사를 렌더링하는 라이브러리
+
+- [React Use Gesture](https://github.com/pmndrs/react-use-gesture)<br>
+
+- [React Use Spring](https://github.com/pmndrs/react-spring)<br>
+
 ### React Hook
 
 - [Velopert Hook(All)](https://react.vlpt.us/)
