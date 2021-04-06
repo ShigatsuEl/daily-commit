@@ -73,6 +73,8 @@
 
 - [Junior Recruit Scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
 
+- [프론트엔드 면접 질문 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/#JS-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8)
+
 ### Design
 
 - [The Fwa](https://thefwa.com/)
