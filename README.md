@@ -90,4 +90,6 @@
 
 - 개인 프로젝트
 
-  IU House(진행중)
+  - IU House(진행중)
+
+  - Junior Developer Repository 정리(진행중)
