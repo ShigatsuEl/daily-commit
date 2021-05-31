@@ -48,6 +48,8 @@
 
   - Airbnb 클론 코딩(완료)
 
+  - Airbnb 클론 코딩 챌린지(완료)
+
 - 생활코딩
 
   - 언어(자바스크립트) -> 완료
@@ -90,6 +92,6 @@
 
 - 개인 프로젝트
 
-  - IU House(진행중)
+  - IU House(마무리)
 
   - Junior Developer Repository 정리(진행중)
