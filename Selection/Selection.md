@@ -36,24 +36,18 @@
 
 - [NodeJS](#NodeJS)
 
-- [Mongoose](#Mongoose)
-
 ### Development-Documentation
 
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)<br>
+- 👍[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)<br>
   어디까지 도달했는지 알아볼 수 있는 좋은 로드맵이다.<br>
 
-- [프론트엔드 기술면접](https://realmojo.tistory.com/300)
+- 👍[프론트엔드 기술면접](https://realmojo.tistory.com/300)
 
-- [생활코딩](https://opentutorials.org/course/1)<br>
-  무료로 여러가지를 배울 수 있는 아주 큰 대형 웹사이트이다.<br>
-  특히, 백엔드가 궁금하다면 유용하게 사용할 수 있을 것이다.<br>
+- 👍[생활코딩](https://opentutorials.org/course/1)<br>
 
-- [웹프로그래밍 튜토리얼](https://poiemaweb.com/)<br>
-  웹프로그래밍에 대한 모든 기초 과정들이 들어있다. 꼭 완독할 예정이다.
+- 👍[웹프로그래밍 튜토리얼](https://poiemaweb.com/)<br>
 
 - [vsc로 작업 후 코드샌드박스로 옮기기](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli)<br>
-  과제할 때 상당히 편리함<br>
 
 - [브라우저 호환성 검사기](https://caniuse.com/)
 
@@ -61,19 +55,15 @@
 
 - [VSC 폴더 구조 View 바꾸는 법](https://jogakjungbo.tistory.com/m/27?category=854924)
 
-- [레와하우스 디자인](https://lewahouse.com/)<br>
-  React와 TS로 클론코딩 할 사이트이다.<br>
-
 - [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)<br>
-  CSR VS SSR<br>
 
 ### Employment
 
 - [Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
-- [Junior Recruit Scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
+- 👍[Junior Recruit Scheduler](https://github.com/jojoldu/junior-recruit-scheduler)
 
-- [프론트엔드 면접 질문 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/#JS-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8)<br>
+- 👍[프론트엔드 면접 질문 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/#JS-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8)<br>
   [프론트엔드 면접 질문 답변 핸드북](https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/kr/README.md)
 
 ### Design
@@ -91,10 +81,10 @@
 - [Youtube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko#Events)<br>
   유튜브 동영상의 재생 및 정지를 쉽게 도와주는 api이다.
 
-- [public API](https://open-apis.dev/)<br>
+- 👍[public API](https://open-apis.dev/)<br>
   API를 공개하는 주소들을 모아두었다. 필요할 때 api를 사용할 수 있을 듯 하다.<br>
 
-- [정규표현식 확인](https://regexr.com/5l6nr)
+- 👍[정규표현식 확인](https://regexr.com/5l6nr)
 
 ### Git & Github
 
@@ -106,45 +96,34 @@
 
 - [Eslint Prettier 설정](https://velog.io/@josworks27/ESLint-Prettier-%EC%84%A4%EC%A0%95-%EB%B0%B1%EC%97%94%EB%93%9C)
 
-- [윈도우10을 위한 NODE_ENV-1](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)<br>
-  [윈도우10을 위한 NODE_ENV-2](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)
+- [윈도우10을 위한 NODE_ENV](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)<br>
+  [...](https://stackoverflow.com/questions/57589183/passing-node-env-into-the-npm-script-for-windows-10)
 
 ### CSS
 
 - [Material Icon](https://material.io/resources/icons/?icon=accessibility_new&style=baseline)
 
-- [디자인 영감 사이트(Dribble)](https://dribbble.com/shots/14931899-TIGERS)
+- [Dribble](https://dribbble.com/shots/14931899-TIGERS)
 
 - [백그라운드 이미지 추출](https://coolbackgrounds.io/)
 
 - [랜덤 이미지 생성 사이트](https://picsum.photos/)
 
-- [CSS Position](https://developer.mozilla.org/ko/docs/Web/CSS/position)
-
-- [반응형 웹 만들기](https://nykim.work/84)
-
 - [성능 저하를 최소화하면서 box-shadow에 애니메이션 추가하기](https://www.pangolinsquare.com/ko/blog/typing-pangolin/web-dev/recommended-guide-in-web-how-to-animate-box-shadow)<br>유튜브 클론 만드는데 많은 도움이 됨.
 
 ### JavaScript
 
-- [모던 자바스크립트](https://javascript.info/)<br>
-  JavaScript 공식 사이트인 MDN 다음으로 애용하는 레퍼런스이다.<br>
+- 👍[모던 자바스크립트](https://javascript.info/)<br>
 
-- [한줄짜리 자바스크립트 코드](https://1loc.dev/)<br>
+- 👍[한줄짜리 자바스크립트 코드](https://1loc.dev/)<br>
 
 - [apply call bind](https://velog.io/@devmin/TIL-%ED%95%A8%EC%88%98-%EB%A9%94%EC%86%8C%EB%93%9C-5ok29tthyz)<br>
-  바인드 메서드 3가지가 자주 헷갈려서 추가한 자료이다.
+  바인드 메서드 3가지가 자주 헷갈려서 추가한 자료
 
 ### TypeScript
 
-- [타입스크립트 공식 사이트](https://typescript-kr.github.io/)<br>
+- 👍[타입스크립트 공식 사이트](https://typescript-kr.github.io/)<br>
   자바스크립트엔 MDN이 있다면 타입스크립트 공식 사이트는 이곳이다.
-
-- [TS Configuration](https://typescript-kr.github.io/pages/tsconfig.json.html)<br>
-  tsconfig.js에 관해 다루고 있다.
-
-- [CRA TypeScript](https://eomtttttt-develop.tistory.com/224)<br>
-  이미 만들어진 React앱에 TypeScript 적용하기
 
 - [바벨과 타입스크립트 활용하기](https://ui.toast.com/weekly-pick/ko_20181220)<br>
 
@@ -152,26 +131,22 @@
 
 ### Python
 
-- [파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/)<br>
+- 👍[파이썬 표준 라이브러리](https://docs.python.org/ko/3/library/)<br>
   자바스크립트엔 MDN이 있다면 파이썬엔 파이썬 표준 라이브러리가 지원을 한다.
 
 - [파이썬 유효범위](https://m.blog.naver.com/PostView.nhn?blogId=msyang59&logNo=220773717531&proxyReferer=https:%2F%2Fwww.google.com%2F)<br>
-  전역범위 지역범위 등에 대해 가장 잘 쓰여진 글 같다.
+  전역범위 지역범위에 관한 글
 
 ### Django
 
-- [Django 공식 문서](https://www.djangoproject.com/)<br>
-  내가 본 공식사이트 중 제일 거대한 듯함. Django에 대해 없는 것이 없다. 여기서 다 찾아보자.
+- 👍[Django 공식 문서](https://www.djangoproject.com/)<br>
 
 ### React
 
-- [리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
-  디렉토리 구조를 어떻게 할지 찾아본 글 중 가장 잘 정리가 되어있는 것 같다.
+- 👍[리액트 디렉토리의 구조](https://medium.com/@FourwingsY/react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0-bb183c0a426e)<br>
 - [React 앱의 폴더 구조 이해하기](https://ichi.pro/ko/react-aeb-ui-poldeo-gujo-ihaehagi-217751249029174)
 
 - [React 생명주기 도표](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-
-- [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel)
 
 - [CRA with Typescript로 Webpack 분석하기](https://choong.dev/posts/study-webpack-cra-typescript)<br>
 
@@ -207,13 +182,12 @@
   [React Animate On Scroll 참고](https://dbramwell.github.io/react-animate-on-scroll/#home)
 
 - [Horizontal scroll animation](https://konstantinlebedev.com/horizontal-scroll-animation/)<br>
-  내가 찾았던 좌우 스크롤 기능
+  수직 스크롤 Example
 
 - [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider)<br>
-  리액트 슬라이드 기능
+  리액트 슬라이드 Example
 
 - [React Audio Lyrics](https://github.com/neroneroffy/react-music-player)<br>
-  Audio속도에 맞춰 Lyrics를 따라가는 라이브러리 -> IU Celebrity 가사 + 시간(LRC라고 하는듯)에 적용해보자
 
 - [React Panorama(panullem-react)](https://github.com/farminf/pannellum-react)<br>
   파노라마 사진을 드래깅 하게 해주는 라이브러리
@@ -231,15 +205,9 @@
 
 - [Velopert Hook(All)](https://react.vlpt.us/)
 
-- [Velopert Hook(Basic)](https://velog.io/@velopert/react-hooks)<br>
-  벨로퍼트님이 정리한 훅의 기초개념이다.
-
 - [React Hooks의 이해](https://velog.io/@gwak2837/React-Hooks%EC%9D%98-%EC%9D%B4%ED%95%B4)<br>
 
 - [Hooks Guide](https://hooks-guide.netlify.app/)
-
-- [useEffect Hook](https://overreacted.io/ko/a-complete-guide-to-useeffect/)<br>
-  useEffect에 관한 고찰에 대한 글이다.
 
 - [useRef & useImperativehandle](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-07-createref%EC%99%80-useref-%EA%B7%B8%EB%A6%AC%EA%B3%A0-useimperativehandle-2fb5445d168b)<br>
   [useRef를 사용하여 상위 컴포넌트에서 호출하기](https://www.python2.net/questions-843995.htm)<br>
@@ -269,20 +237,10 @@
 - [Webpack Handbook](https://joshua1988.github.io/webpack-guide/guide.html)
 
 - [프론트엔드 개발환경의 이해: Webpack / Babel / ESLint](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)<br>
-  인프런 김정환님 웹팩 강의에서 참고하는 자료이다.
+  인프런 김정환님 웹팩 강의에서 참고하는 자료
 
 ### Gulp
 
 - [Gulp 기초](https://valuefactory.tistory.com/314)
 
 ### NodeJS
-
-- [Node JS / Express에 관한 정리](https://psyhm.tistory.com/2?category=654716)<br>
-  NodeJS와 Express에 관해 정리한 포스팅이다.<br>
-
-- [@babel/preset-env가 무엇이고 왜 필요한가?](https://velog.io/@pop8682/%EB%B2%88%EC%97%AD-%EC%99%9C-babel-preset%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EA%B3%A0-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80-yhk03drm7q)
-
-### Mongoose
-
-- [몽구스 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)<br>
-  평소에 MongoDB쿼리하는 법에 대해 찾아도 영어문서가 많아 이해하기 어려웠는데 제로초님이 간편하게 정리한 것이다.<br>
